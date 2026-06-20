@@ -1,0 +1,9 @@
+.venv/
+.env
+.history/
+
+# ffmpeg assembly temp files
+output/.work-*/
+
+# macOS
+.DS_Store
