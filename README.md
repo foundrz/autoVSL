@@ -2,6 +2,13 @@
 
 Create VSLs cheaply — VO free, video from ~$1.60 via API or $0 manual.
 
+> **New here? Start with [`docs/AGENTS.md`](docs/AGENTS.md).**
+> autoVSL is a multi-agent ad factory. Five skills in `.claude/skills/` chain
+> research → brand → script → finished video: **prospector** and **bloodhound**
+> (research), **brand-platform-builder** (brand voice), **vsl** (copywriter),
+> **vsl-editor** (production engine). `docs/AGENTS.md` maps how they hand off.
+> The section below is the low-level generation tooling the editor builds on.
+
 ## What's ready
 
 | Step | Tool | Cost | Status |

@@ -346,9 +346,22 @@ Do **not** build a custom UI until Phase 2 sync is live and the team has used it
 
 ---
 
+## Script-writing framework (added July 2026)
+
+The full VSL script-writing system is now codified in
+[`framework/`](../framework/README.md): 5 stages (product intake → avatar
+research → angles → scripts → shot list), exact prompts as files, per-product
+working data in `products/<slug>/` tracked by `manifest.json`. Run it with the
+`/vsl` skill (`.claude/skills/vsl/SKILL.md`). Stage 5 hands off to the
+generation pipeline (`vsls/<slug>/`) documented above. This answers question 1
+below — the framework upstream of "Research/Hook/Script/Shot List" statuses now
+lives in this repo, not just Notion.
+
+---
+
 ## Questions for product owner before Phase 2
 
-1. Paste full **7-step system** from Notion — exact step names and fields
+1. ~~Paste full **7-step system** from Notion — exact step names and fields~~ ✓ codified in `framework/`
 2. Confirm ClickUp workspace URL and who creates the lists
 3. Expected volume: VSLs per week/month?
 4. Team size: solo operator vs multiple people in pipeline?
