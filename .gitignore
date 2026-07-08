@@ -7,3 +7,13 @@ output/.work-*/
 
 # macOS
 .DS_Store
+
+# research raw scrape dumps (large, reprocessable locally)
+research/raw/
+research/**/raw/
+
+# editor render artifacts (finished videos land on Desktop)
+output/
+
+# local personal settings
+.claude/settings.local.json
