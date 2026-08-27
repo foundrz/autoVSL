@@ -4,7 +4,7 @@
 > Fill every section. If unknown, write `TBD` and list it under Open gaps.
 
 ## Open gaps
-- **TBD
+- TBD
 - **Grateful Dead branding can be used.** The reference mockup included the Grateful Dead's trademarked "Steal Your Face" logo and wordmark. That's real, protected IP that is licensed— . Packaging art generated so far (`ads/`).
 - **"Microdose" / mushroom framing is confirmed, and allowed as it is a legal functional mushroom and adaptogen blend.** Fairy Flame's own doc was corrected 2026-08-20 to confirm no magic mushroom/psilocybin extract is currently in that product's formula. 
 - Everything below is TBD pending that founder input.
