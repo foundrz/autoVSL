@@ -1,4 +1,4 @@
-# Offer Information Document — Fairy Flame Microdose Gummies
+# Offer Information Document — Fairy Flame Gummies
 
 > Single source document pasted into every downstream prompt.
 
@@ -7,13 +7,13 @@
 
 ## Resolved (2026-07-07)
 - **Banned words:** wellness, journey, holistic (full list — nothing was cut off).
-- **Brand names:** **liitt** is the brand; **Fairy Flame** is this product (the magic mushroom microdose gummies we're selling now).
+- **Brand names:** **liitt** is the brand; **Fairy Flame** is this product 
 - **Active in ad copy:** call them **"microdose gummies"** — keep it general like that; don't get more specific about the active in ads.
 - **Spokesperson:** mixed — some founder-spoken, plus other spokespeople matched to each customer avatar. Test to find winners.
 
 ## 1. Product basics
-- **Product name:** Fairy Flame Microdose Gummies (company: liitt — see gap #2)
-- **Category:** Microdose gummies (functional mental-state supplement)
+- **Product name:** Fairy Flame Mushroom Gummies (company: liitt — see gap #2)
+- **Category:** Functional Mushroom gummies (functional mental-state supplement)
 - **Format:** Pouch of 30 flame-shaped gummies, deep magenta. One gummy per serving.
 - **Price & offer structure:**
   - 1 pouch — $69 ($2.30/gummy)
@@ -22,7 +22,7 @@
   - Every tier includes dosing guide + lab COA
 - **Guarantee:** 60-day money-back — "full refund, no hoops, no hassle" (confirmed live)
 - **Shipping:** Free, discreet, US-only. Made in USA, GMP facility.
-- **Where it's sold:** fairyflame.com
+- **Where it's sold:** liitt.co
 
 ## 2. The mechanism (why it works)
 - **Problem solved (one sentence):** Depression, PTSD, anxiety, burnout, brain fog — "a low hum of anxiety that never quite lifts." Coffee pushes harder; alcohol numbs out; neither returns you to curious/creative/present.
@@ -44,7 +44,7 @@
 - **Authority:** lab COA with every order; third-party tested every batch; GMP facility
 
 ## 4. The story
-- **Founder story:** TRUE story — see `stories/founder-story.md`. Core beats: crash on the eve of first anniversary (fell asleep at the wheel), lost pregnant wife ("we only brought back one body"), tried everything (therapy, medication, yoga, breathwork — nothing worked), discovered psychedelics → "felt like myself again," promise made in the dark → founded liitt so no one has to suffer like this.
+- **Founder story:** TRUE story — see `stories/founder-story.md`. Core beats: crash on the eve of first anniversary (fell asleep at the wheel), lost pregnant wife ("we only brought back one body"), tried everything (therapy, medication, yoga, breathwork — nothing worked), discovered functional mushrooms → "felt like myself again," promise made in the dark → founded liitt so no one has to suffer like this.
 - **Core emotional through-line:** "feel like yourself again" — appears in the founder story AND the Jordan T. testimonial. This is the brand's deepest phrase.
 
 ## 5. Market position
@@ -55,7 +55,7 @@
 ## 6. Voice & constraints
 - **Brand voice:** premium, clean, trustworthy — NOT stoner culture. A24 cinematic, warm, intimate, no hard sell (from prior brief).
 - **Banned words:** wellness, journey, holistic
-- **Naming in ads:** brand = liitt; product = Fairy Flame; actives = "microdose gummies" (stay general — no specific active names in ad copy)
+- **Naming in ads:** brand = liitt; product = Fairy Flame; actives = "mushroom gummies" (stay general — no specific active names in ad copy)
 - **Spokesperson model:** founder-spoken versions + avatar-matched spokespeople, tested per avatar
 - **Existing creative:** vsls/fairy-flame (60s, 9:16) — first pipeline test
 
