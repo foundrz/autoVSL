@@ -3,8 +3,8 @@
 **FORMULA:** Formula 4 — Warning Stock-Up (house control)
 **TARGET LENGTH:** ~4 min (650 words) — house formula at 2/3 length; extend once real proof assets (attach rates, testimonials) exist
 **VOICE:** Founder (Colton), first person, warm authority
-**OFFER:** 6 additional pouches @ $33/pouch = $198 ⚠️ placeholder pricing
-**Status:** draft-1
+**OFFER:** 6 additional pouches @ $16/pouch = $96 (75% off $69 normal) — set 2026-08-07
+**Status:** live-v2 (spliced re-render; opening ~150s unchanged from v1)
 
 ---
 
@@ -38,19 +38,19 @@ Now, here's why I'm telling you this today. We make Fairy Flame in small batches
 And the last thing I want is for you to hit week six — mornings finally light, patience finally back, your family finally getting YOU — and then watch the fog roll back in because your pouch ran out and the next batch is still at the lab.
 
 **[OFFER + PER-DAY CRUSH]**
-So here's what I've set up — only on this page, only for new orders. Normally a pouch is sixty-nine dollars. Right now, you can add six more pouches — a full six-month supply — for just thirty-three dollars a pouch. That's about a dollar ten a day. A latte costs five.
+So here's what I've set up — only on this page, only for new orders. Normally a pouch is sixty-nine dollars. Right now, you can add six more pouches — a full six-month supply — for just sixteen dollars a pouch. That's seventy-five percent off. About fifty cents a day. A latte costs five.
 
 **[MORAL OBLIGATION]**
 Honestly, we barely make anything at that price. But I didn't start this company to sell pouches. I started it because I know what the darkness costs — and nobody should slide back into it over a restock calendar.
 
 **[CTA + WAREHOUSE MECHANICS]**
-So scroll down and tap the button that says "ADD 6 POUCHES TO MY ORDER." You won't re-enter anything — our warehouse adds it to the order you just placed and ships everything together in one discreet box.
+So scroll down and tap the button below to add six pouches to your order. You won't re-enter anything — our warehouse adds it to the order you just placed and ships everything together in one discreet box.
 
 **[GUARANTEE]**
-And your entire order — including these six pouches — is covered by our 60-day guarantee. If it's not for you, full refund. No hoops, no hassle.
+And your entire order — including these six pouches — is covered by our sixty-day guarantee. If it's not for you, full refund. No hoops, no hassle.
 
 **[LATER-PRICE CONTRAST]**
-One last thing: if you skip this and want more later, it's sixty-nine dollars a pouch on the site. More than double. This price exists on this page, one time.
+One last thing: if you skip this and want more later, it's sixty-nine dollars a pouch on the site — more than four times what you're paying today. This price exists on this page, one time.
 
 **[AGENCY CLOSE + FUTURE-PACE]**
 The ball's in your court. But here's what I'm picturing: a few months from now, you're in the kitchen, and you catch yourself singing again — and there's a full shelf of Fairy Flame right there, so it never has to stop. Tap the button below. And if it's not for you, no stress — tap "no thanks" and your order ships as planned.
@@ -61,8 +61,8 @@ The ball's in your court. But here's what I'm picturing: a few months from now, 
 Order confirmed in sentence 2 ✓ · zero desperation language ✓ · one offer, one core benefit (don't interrupt the reset) ✓ · first purchase never undermined (gap = running out mid-arc, not product insufficiency) ✓ · price stated once in full, cart-anchored, then per-day only ✓ · one-click reassurance ✓ · scarcity = supply-side + page-only (flagged) ✓ · graceful no-thanks ✓ · guarantee = 60 days, stated once ✓ · read-aloud pass ✓ · tone: warm authority, no hype stack ✓ · Stop-Start Truth uses OUR dosing-guide timeline, no fake studies ✓
 
 ## FLAGS FOR COLTON
-1. **$33/pouch × 6 = $198** — placeholder; set real OTO price
-2. **Button text** "ADD 6 POUCHES TO MY ORDER" — match actual page button
+1. ~~$33/pouch × 6 = $198~~ **UPDATED 2026-08-07: $16/pouch × 6 = $96, 75% off $69**
+2. **Button text** "ADD SIX POUCHES TO MY ORDER" — match actual page button
 3. **"$200 a session"** therapy anchor — research-backed range ($100–250) but confirm you want it
 4. **Supply-risk beat** (small batches, weeks-long restock) — must be TRUE; soften or cut if not
 5. **"Email me" personal connect** — confirm you actually want inbound customer email

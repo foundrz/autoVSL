@@ -33,6 +33,13 @@ FONT = "Arial"
 # Brand always renders with its exact stylized spelling, even in all-caps captions
 BRAND = "līītt"
 BRAND_ALIASES = {"lit", "litt", "liit", "liitt", "leet", "lift"}
+# Caption-only spelling overrides (VO unchanged; burned subs only)
+CAPTION_OVERRIDES = {
+    "psychedelics": "ps-ch-delics",
+    "psychedelic": "ps-ch-delic",
+    "pooch": "pouch",
+    "pooches": "pouches",
+}
 FONT_SIZE = 50
 OUTLINE = 3
 SHADOW = 2
@@ -151,6 +158,9 @@ def render_word(w: str) -> str:
     if core in BRAND_ALIASES:
         m = re.match(r"^(\W*)(.*?)(\W*)$", w)
         return (m.group(1) if m else "") + BRAND + (m.group(3) if m else "")
+    if core in CAPTION_OVERRIDES:
+        m = re.match(r"^(\W*)(.*?)(\W*)$", w)
+        return (m.group(1) if m else "") + CAPTION_OVERRIDES[core].upper() + (m.group(3) if m else "")
     return w.upper()
 
 

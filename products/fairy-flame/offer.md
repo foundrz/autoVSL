@@ -26,8 +26,8 @@
 
 ## 2. The mechanism (why it works)
 - **Problem solved (one sentence):** Depression, PTSD, anxiety, burnout, brain fog — "a low hum of anxiety that never quite lifts." Coffee pushes harder; alcohol numbs out; neither returns you to curious/creative/present.
-- **Unique mechanism:** Magic mushroom legal extract — a *state-shift* that isn't stimulation (caffeine) or sedation-by-poison (alcohol). Supporting actives: lion's mane (focus/clarity), cordyceps (clean natural energy), ashwagandha (steadies the stress baseline). Third-party COA on every batch, no mystery blends.
-- **Actives:** magic mushroom legal extract · lion's mane · cordyceps · ashwagandha
+- **Unique mechanism:** A functional-mushroom + adaptogen blend — a *state-shift* that isn't stimulation (caffeine) or sedation-by-poison (alcohol). Actives: lion's mane (focus/clarity), cordyceps (clean natural energy), reishi (calm/immune support), ashwagandha (steadies the stress baseline). Third-party COA on every batch, no mystery blends.
+- **Actives:** lion's mane · cordyceps · reishi · ashwagandha *(not currently running with magic mushroom extract — confirmed 2026-08-20)*
 - **Base:** fruit pectin (vegan, no gelatin), organic cane sugar, natural fruit flavors, citric acid, plant-derived color, coconut oil (MCT, bioavailability), sunflower lecithin (even active dispersion)
 - **Time to results — the four-phase arc (use as VSL timeline skeleton):**
   - Days 1–7: subtle shift — lighter mood, easier mornings
@@ -66,3 +66,4 @@
 
 ## Changelog
 - 2026-07-07: created from founder intake dump (Colton). Brand identity noted as ~10% built — expect this doc to deepen over time.
+- 2026-08-20: actives corrected — confirmed with Colton the real list is lion's mane, cordyceps, reishi, ashwagandha; not currently running with magic mushroom extract. Brand/title still says "Microdose Gummies" / "magic mushroom microdose gummies" (line 1, 10) — flagging as a possible follow-up inconsistency, not changed here since only actives were confirmed.

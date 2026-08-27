@@ -79,6 +79,27 @@
       "Therapy cost anchor ($200/session) needs approval"
     ]
   },
+  "ad_copy": {
+    "status": "review",
+    "banks": [
+      {
+        "file": "ads/batch-01-copy-bank.md",
+        "created": "2026-07-13",
+        "contents": "8 primary texts + 15 headlines + 3 descriptions",
+        "test_structure": "3 ad sets by angle family (identity/story, education/nurse, trust/founder), 2 PT x 2 HL each, H-01/H-13 as universal controls",
+        "vsl_pairings": {
+          "PT-01": "scripts/01-photo-before-kids.md",
+          "PT-02": "scripts/02-3-signs-running-on-empty.md",
+          "PT-03": "scripts/03-husband-asked-what-changed.md",
+          "PT-04": "scripts/05-wine-isnt-calming-you.md",
+          "PT-05": "scripts/08-anxiety-peaks-45-55.md",
+          "PT-06": "scripts/09-stop-coffee-for-fog.md",
+          "PT-07": "scripts/10-gas-station-gummies.md",
+          "PT-08": "universal"
+        }
+      }
+    ]
+  },
   "performance": {
     "notes": "media buyer agent writes CPA/CTR/hook-winner data here per script/angle to drive kill-or-iterate decisions",
     "results": []
