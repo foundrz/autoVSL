@@ -1,0 +1,41 @@
+{
+  "product": "MicroFlame Mushroom Gummies",
+  "slug": "microflame",
+  "created": "2026-08-26",
+  "stage": 1,
+  "stages": {
+    "1_product_intake": {
+      "status": "in_progress",
+      "offer_doc": "offer.md",
+      "stories": [],
+      "gaps": ["see offer.md Open gaps"]
+    },
+    "2_avatar_research": {
+      "status": "not_started",
+      "research": "avatars/research.md",
+      "avatars": [],
+      "chosen_avatar": null
+    },
+    "3_angles": {
+      "status": "not_started",
+      "angles_file": null,
+      "top_10": []
+    },
+    "4_scripts": {
+      "status": "not_started",
+      "scripts": []
+    },
+    "5_shot_list": {
+      "status": "not_started",
+      "shot_lists": []
+    },
+    "6_generation": {
+      "status": "not_started",
+      "vsl_slugs": []
+    }
+  },
+  "performance": {
+    "notes": "media buyer agent writes CPA/CTR/hook-winner data here per script/angle to drive kill-or-iterate decisions",
+    "results": []
+  }
+}

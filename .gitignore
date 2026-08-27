@@ -17,3 +17,10 @@ output/
 
 # local personal settings
 .claude/settings.local.json
+
+# python bytecode cache
+__pycache__/
+*.pyc
+
+# macOS Finder metadata
+.DS_Store
